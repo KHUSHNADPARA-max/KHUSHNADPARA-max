@@ -5,12 +5,12 @@
 </div> <br> 
 
 <!-- <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" > -->
-<br> <br> <br>
+<br> <br>
 
 
 <h1 align="center">Hi 👋, I'm KHUSH NADPARA</h1>
 <h3 align="center">A Pursuing B.Tech In CSE From Ahmedabad</h3>
-
+<br>
 <img align = "right" alt = "coding" width = "380px" height = "300px" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushnadpara-max&label=Profile%20views&color=0e75b6&style=flat" alt="khushnadpara-max" /> </p>
