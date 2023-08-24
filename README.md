@@ -1,3 +1,13 @@
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="left" style="width: 40%" />
+</div> <br> 
+
+<!-- <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" > -->
+<br> <br> <br>
+
+
 <h1 align="center">Hi 👋, I'm KHUSH NADPARA</h1>
 <h3 align="center">A Pursuing B.Tech In CSE Student From Ahmedabad</h3>
 
