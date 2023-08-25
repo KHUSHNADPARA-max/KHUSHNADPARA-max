@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center" text-align: center;>
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=EAT,+SLEEP,+CODE;LEARN,+IMPLEMENT,+AGAIN+CODE;REPEAT+AGAIN+DUDE..!😜)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="center" style="width: 40%" />
