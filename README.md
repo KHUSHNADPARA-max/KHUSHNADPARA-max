@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm KHUSH NADPARA</h1>
-<h3 align="center">A Pursuing B.Tech In CSE From ICT At Ahmedabad</h3>
+<h3 align="center">A Pursuing B.Tech In CSE From ICT (GUNI) At Ahmedabad</h3>
 <br>
 <img align = "right" alt = "coding" width = "380px" height = "300px" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
